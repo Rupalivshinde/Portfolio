@@ -27,7 +27,7 @@ function Home() {
                 <br />
                 <h1>And I'm a <span className='span1'>{text}</span> </h1>
                 <p>Welcome To My Portfolio, I Did This Website To See All My Projects, I Wish This Portfolio Like You</p>
-                <button>Download CV<FaArrowDown /></button>
+                <button>  <a href="https://drive.google.com/file/d/1HeGcMJJdwvM-mRjjXQ42kSqCLnwvw2go/view?usp=sharing" target='_blank'>Download CV</a><FaArrowDown /></button>
 
             </div>
 

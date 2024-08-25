@@ -1,10 +1,10 @@
 import React from 'react'
 import './Services.css'
 // import { GoArrowRight } from "react-icons/go";
-import weblogo from '/public/web.logo.png'
-import mobile from '/public/mobile.logo.png'
-import ui from '/public/ui.png'
-import graphic from '/public/graphic.png'
+import weblogo from '/web.logo.png'
+import mobile from '/mobile.logo.png'
+import ui from '/ui.png'
+import graphic from '/graphic.png'
 function Services() {
     return (
         <>

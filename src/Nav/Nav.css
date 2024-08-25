@@ -173,7 +173,7 @@
 
 @media (max-width: 414px) {
     .nav {
-        padding: 1rem 1rem;
+        padding: 1rem 0rem;
     }
 
     .logo h2 {
